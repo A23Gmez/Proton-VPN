@@ -16,7 +16,7 @@
 
 -Browsed to https://whatismyipaddress.com/, took note of my location from my original computer.
 
-<h2>Example Within VM East US 2 (Non VPN Connection)</h2>
+<h2>Example Within VM West US 2 (Non VPN Connection)</h2>
 
 ![image](https://github.com/user-attachments/assets/7af6ed67-8d2f-449e-96f9-2374ded166de)
 
